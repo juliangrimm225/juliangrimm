@@ -17,10 +17,10 @@ interests:
 - Modelling
 - Data Visualization
 - Good Programming Practices
-organizations:
-- name: AMS Europe
-  url: https://www.ams-europe.com
-role: Biostatistician
+# organizations:
+# - name: AMS Europe
+#   url: https://www.ams-europe.com
+role: Biostatistician and Developer
 social:
 - icon: envelope
   icon_pack: fas
@@ -35,6 +35,7 @@ superuser: true
 title: Julian Grimm
 ---
 
+I am a statistician by trade. I am highly interested in clean code and good practices.
 <!---
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
  

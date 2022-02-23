@@ -1,4 +1,5 @@
 ---
+active: false
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
@@ -25,8 +26,8 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  icon: sushi
+  icon_pack: fab
   name: Photography
 
 # Uncomment to use emoji icons.
