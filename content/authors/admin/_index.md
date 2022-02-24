@@ -13,10 +13,10 @@ bio: My interests include modelling, data visualization and good programming pra
 #     year: 2008
 email: ""
 highlight_name: true
-interests:
-- Modelling
-- Data Visualization
-- Good Programming Practices
+# interests:
+# - Modelling
+# - Data Visualization
+# - Good Programming Practices
 # organizations:
 # - name: AMS Europe
 #   url: https://www.ams-europe.com
@@ -35,13 +35,8 @@ superuser: true
 title: Julian Grimm
 ---
 
-I am a statistician by trade. I am highly interested in clean code and good practices.
+I am a statistician and developer. My job is the automization of data analysis and the creation of beautiful reports. I like talking about good coding practices, R and how to make the perfect rice bowl.
 <!---
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 -->
